@@ -30,3 +30,9 @@ COPY --from=build-stage /app/dist/ /usr/share/nginx/html
 
 # run nginx
 CMD ["nginx", "-g", "daemon off;"]
+
+FROM node:4.2
+COPY . /src
+RUN cd /src && npm install
+EXPOSE 4000
+CMD ["node", "/src/server.js"]
