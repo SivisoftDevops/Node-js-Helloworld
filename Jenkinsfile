@@ -10,7 +10,7 @@ k8snpmpipeline {
 
      label= 'LINUX'
 
-     appName =  'servicedx-ui'
+     appName =  'Node-js-Helloworld'
 
      innerPort= '80'
 
