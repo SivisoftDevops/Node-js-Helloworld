@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
   },
-  "author": "fhinkel",
+  "author": "sivisoftdevops",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
+    "url": "https://github.com/SivisoftDevops/Node-js-Helloworld/issues"
   },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "homepage": "https://github.com/SivisoftDevops/Node-js-Helloworld#readme"
 }
